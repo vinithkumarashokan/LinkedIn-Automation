@@ -32,7 +32,7 @@ public void LinkedIn() throws AWTException {
 	UserName.sendKeys("vinithkumarashokan@gmail.com");
 	
 //Password
-	driver.findElement(By.id("password")).sendKeys("Vini@sneha7754");;
+	driver.findElement(By.id("password")).sendKeys("g7gf86gghhh");;
     driver.findElement(By.xpath("//button[@aria-label='Sign in']")).click();
     
 //profile click
